@@ -1,0 +1,15 @@
+.menu {
+    display: flex;
+    align-items: center;
+}
+
+.menu a {
+    padding: 8px 16px;
+    transition: .5s;
+    font-size: 1.2em;
+    color: var(--tertiary_color);
+}
+
+.menu a:hover {
+    color: var(--primary_color);
+}

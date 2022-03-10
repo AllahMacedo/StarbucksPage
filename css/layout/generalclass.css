@@ -1,0 +1,10 @@
+.container {
+    width: 1762px;
+    max-width: 100%;
+    padding: 0 5%;
+}
+
+.flex_sb {
+    display: flex;
+    justify-content: space-between;
+}
