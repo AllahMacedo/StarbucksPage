@@ -1,7 +1,9 @@
 .container {
-    width: 1762px;
-    max-width: 100%;
-    padding: 0 5%;
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    padding: 5px 100px;
+    margin: 0 auto;
 }
 
 .flex_sb {
