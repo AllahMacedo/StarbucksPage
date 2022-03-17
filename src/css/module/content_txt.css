@@ -1,13 +1,3 @@
-.content {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    align-items: center;
-    width: 100%;
-    position: relative;
-}
-
-.content_txt {max-width: 600px;}
 .content_txt h1 {
     font-size: 4em;
     font-weight: 500;
@@ -31,15 +21,4 @@
     letter-spacing: 1px;
     color: var(--primary_color);
     background-color: var(--secundary_color);
-}
-
-.content_img {
-    display: flex;
-    justify-content: flex-end;
-    padding-right: 50px;
-    width: 600px;
-}
-
-.content_img img {
-    max-width: 340px;
 }
