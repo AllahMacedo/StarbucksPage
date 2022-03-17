@@ -1,0 +1,21 @@
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-items: center;
+    width: 100%;
+    position: relative;
+}
+
+.content_txt {max-width: 600px;}
+
+.content_img {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 50px;
+    width: 600px;
+}
+
+.content_img img {
+    max-width: 340px;
+}

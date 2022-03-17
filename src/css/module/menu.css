@@ -9,6 +9,9 @@
     font-size: 1em;
     color: var(--tertiary_color);
 }
+.menu a:not(:last-child){
+    margin-right: 5px;
+}
 
 .menu a:hover {
     color: var(--secundary_color);
