@@ -11,13 +11,13 @@
   <img src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=RED&style=for-the-badge"/>
 
   <!-- languages -->
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AllahMacedo/StarbucksPage?style=for-the-badge">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/allahmacedo/StarbucksPage?style=for-the-badge">
 
   <!-- repo size -->
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/AllahMacedo/StarbucksPage?style=for-the-badge">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/allahmacedo/StarbucksPage?style=for-the-badge">
 
   <!-- license -->
-  <img alt="GitHub" src="https://img.shields.io/github/license/AllahMacedo/StarbucksPage?style=for-the-badge">
+  <img alt="GitHub" src="https://img.shields.io/github/license/allahmacedo/StarbucksPage?style=for-the-badge">
 
   <p align="center">
     <!-- linkedin -->
