@@ -5,5 +5,5 @@
     height: 100%;
     width: 100%;
     clip-path: circle(600px at right 800px);
-    background-color: var(--secundary_color);
+    background: var(--secundary_color);
 }
