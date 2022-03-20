@@ -69,7 +69,7 @@ Online Tutorials
 
 
 ## 🥷🏻 Author 
-  👨🏻‍💻 **Allah Macedo**
+  👨🏻‍💻 **Allah Macedo** <br>
   <img src="https://user-images.githubusercontent.com/70299304/159188968-1007fadc-6f23-4b99-86b5-cb53a8611414.jpg" width ="100px"/>
   <!-- linkedin -->
   <a href="https://www.linkedin.com/in/allah-macedo-1b3613122//">
