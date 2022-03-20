@@ -1,0 +1,12 @@
+.container {
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    padding: 0 100px 100px;
+    margin: 0 auto;
+}
+
+.flex_sb {
+    display: flex;
+    justify-content: space-between;
+}
