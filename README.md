@@ -36,4 +36,53 @@
 
  > Development of a starbucks page to practice html, css and javascript.
 
+## 👨🏻‍💻 Techs  
+- HTML 5 
+- CSS 3
+- JAVASCRIPT
+
+## 🔥 Features  
+- Troca a imagem e o background conforme o click nas imagens de thumb no final da página .
+- responsivo 
+
+## 🗺 Some illustrations 
+ Desktop version
+![part01](https://user-images.githubusercontent.com/70299304/159189163-0ada1596-efa9-42b7-a538-4caf60442ce1.gif)
+
+## ⚙️ Usage 
+Você vai precisar usar o terminar para usar estes comandos.
+ - Clone o repositório em sua maquina
+  ```bash
+    git clone https://github.com/allahmacedo/StarbucksPage.git
+  ```
+  - Acesse o folder do projeto
+  ```bash 
+    cd StarbucksPage
+  ```
+ 
+## 💡 Inspiration  
+  Este projeto foi inspirado no projeto do canal [
+Online Tutorials
+](https://www.youtube.com/results?search_query=online+tutorials)<br>
+[part-01](https://www.youtube.com/watch?v=91Q6RvKvd7o)<br>
+[part-02](https://www.youtube.com/watch?v=HXKNedyDbNE)
+
+
+## 🥷🏻 Author 
+  👨🏻‍💻 **Allah Macedo**
+  <img src="https://user-images.githubusercontent.com/70299304/159188968-1007fadc-6f23-4b99-86b5-cb53a8611414.jpg" width ="100px"/>
+  <!-- linkedin -->
+  <a href="https://www.linkedin.com/in/allah-macedo-1b3613122//">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/"/>
+  </a>
+
+  <!-- portifolio -->
+  <a href="#">
+   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139/"/>
+  </a> 
+
+  <!-- gmail -->
+  <a href="mailto: allah.coder@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
