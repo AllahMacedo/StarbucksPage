@@ -1,14 +1,14 @@
 .thumb {
     position: absolute;
     left: 50%;
-    bottom: 5px;
-    transform: translateX(-50%);
+    bottom: 5px; 
     display: flex;
+    transform: translateX(-50%);
 }
 
 .thumb li {
-    transition: .5s;
     margin: 0 20px;
+    transition: .5s;
     cursor: pointer;
 }
 

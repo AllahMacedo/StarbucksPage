@@ -2,8 +2,8 @@
     position: absolute;
     top: 0;
     left: 0;
-    height: 100%;
-    width: 100%;
-    clip-path: circle(600px at right 800px);
+    height: var(--w100);
+    width: var(--w100);
+    clip-path: circle(var(--w600px) at right 800px);
     background: var(--secundary_color);
 }

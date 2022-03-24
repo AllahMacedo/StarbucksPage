@@ -1,0 +1,7 @@
+.content_img {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 50px;
+    width: var(--w600px);
+}
+.content_img img {max-width: 340px;}

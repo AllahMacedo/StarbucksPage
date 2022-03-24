@@ -1,4 +1,4 @@
 .header {
-    max-width: 100%;
+    max-width: var(--w100);
     padding: 20px 0;
 }
