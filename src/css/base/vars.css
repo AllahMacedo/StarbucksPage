@@ -3,7 +3,9 @@
     --primary_color: #ffffff;
     --secundary_color: #017143;
     --tertiary_color: #333333;
+    --menuActiveBGC: #f0f8ff;
 
-    /* padding */
-    
+    /* dimension */
+    --w100: 100%;
+    --w600px: 600px; 
 }

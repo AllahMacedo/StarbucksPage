@@ -1,6 +1,6 @@
 .container {
     position: relative;
-    width: 100%;
+    width: var(--w100);
     min-height: 100vh;
     padding: 0 100px 100px;
     margin: 0 auto;
