@@ -49,6 +49,9 @@
  Desktop version
 ![part01](https://user-images.githubusercontent.com/70299304/159189163-0ada1596-efa9-42b7-a538-4caf60442ce1.gif)
 
+Mobile version
+![responsive](https://user-images.githubusercontent.com/70299304/160026861-6c9da5c1-3dba-4683-8b42-1a4c93d8cad7.gif)
+
 ## ⚙️ Usage 
 Você vai precisar usar o terminar para usar estes comandos.
  - Clone o repositório em sua maquina
