@@ -49,8 +49,10 @@
  Desktop version
 ![part01](https://user-images.githubusercontent.com/70299304/159189163-0ada1596-efa9-42b7-a538-4caf60442ce1.gif)
 
-Mobile version
-![responsive](https://user-images.githubusercontent.com/70299304/160026861-6c9da5c1-3dba-4683-8b42-1a4c93d8cad7.gif)
+
+<div>Mobile version</div>
+
+![responsive-min](https://user-images.githubusercontent.com/70299304/160032972-4c57e424-0877-4d2b-962f-87fb0cdb4f2a.gif)
 
 ## ⚙️ Usage 
 Você vai precisar usar o terminar para usar estes comandos.
