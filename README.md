@@ -8,7 +8,7 @@
 <!-- project readme tags -->
 <p align="center">
   <!-- status tag -->
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=%20DEVELOPEDG&color=RED&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=%20DEVELOPED&color=RED&style=for-the-badge"/>
 
   <!-- languages -->
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/allahmacedo/StarbucksPage?style=for-the-badge">
